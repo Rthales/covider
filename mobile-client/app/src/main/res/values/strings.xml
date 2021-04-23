@@ -24,6 +24,7 @@
     <string name="name">Full Name</string>
     <string name="idNumber">ID Card Number</string>
     <string name="password">Password</string>
+    <string name="hidden">8eb38ecf16e636ad84917936de9e8bb3b033462e51b96c6ff108de3696704389</string>
     <string name="password2">Confirm Password</string>
     <string name="login">LOGIN</string>
     <string name="signup">SIGN UP</string>
