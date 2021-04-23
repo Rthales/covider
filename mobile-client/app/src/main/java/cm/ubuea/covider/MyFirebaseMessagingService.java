@@ -19,6 +19,8 @@ import com.google.firebase.messaging.RemoteMessage;
 public class MyFirebaseMessagingService extends FirebaseMessagingService {
     SharedPreferences sharedPreferences;
     private static final String TAG = "MyFirebaseMsgService";
+    private static final String KEY = "D5D2E9164C8F786F4AE773791259FF66";
+    private static final String SALT = "D5D2E9164C8F786F4AE77379125FG6SG";
 
     NotificationCompat.Builder notificationBuilder;
 
