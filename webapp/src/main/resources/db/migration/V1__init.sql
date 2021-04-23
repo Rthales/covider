@@ -39,6 +39,8 @@ CREATE TABLE `c_user` (
   `reset_key` varchar(20) DEFAULT NULL
 );
 
+# INSERT INTO 'c_user' VALUES (1,1,"d89b1bd199b02302e24e","","","","","","","","","61be55a8e2f6b4e172338bddf184d6db","","ee29c98853e0a0485ecee7f27b9af0b4")
+
 CREATE TABLE `c_user_role` (
   `user_id` INT NOT NULL,
   `role_name` varchar(50) NOT NULL,
