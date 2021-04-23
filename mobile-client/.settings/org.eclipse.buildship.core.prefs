@@ -3,6 +3,7 @@ auto.sync=false
 build.scans.enabled=false
 connection.gradle.distribution=GRADLE_DISTRIBUTION(WRAPPER)
 connection.project.dir=
+connextion.secret=67D26ED363E3AAB4DBE72469D6ABC5A5
 eclipse.preferences.version=1
 gradle.user.home=
 java.home=/usr/lib/jvm/java-11-openjdk-11.0.7.10-1.fc32.x86_64
