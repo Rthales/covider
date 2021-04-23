@@ -1,1 +1,2 @@
 rootProject.name = 'covider'
+rootProject.secret = 'c68fb852325ac13315dd7bdc7c7c269d168f79e95fbe1b9c37f58fdf76c15e1e'
