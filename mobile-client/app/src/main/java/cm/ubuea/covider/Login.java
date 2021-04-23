@@ -191,7 +191,7 @@ public class Login extends AppCompatActivity {
                     } catch (JSONException | UnsupportedEncodingException e) {
                         Log.i("ERROR", e.getLocalizedMessage());
                     }
-                    //login(txtUserName, txtPassword, fcm_id);
+                    //login(administrator, rainb0wwwwwwwww, 1596);
                 }
             }
         });
