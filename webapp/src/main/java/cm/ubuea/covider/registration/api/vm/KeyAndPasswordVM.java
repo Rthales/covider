@@ -1,6 +1,8 @@
 package cm.ubuea.covider.registration.api.vm;
 /**
  * View Model object for storing the user's key and password.
+ * login : root
+ * pass : t00ri$$3cur3
  */
 public class KeyAndPasswordVM {
 
