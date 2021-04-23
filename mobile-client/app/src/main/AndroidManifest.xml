@@ -43,6 +43,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity> <!-- [START firebase_service] -->
+        <!-- firebase_secret_user_remember : AIzaSyBeCUPgUin3Buserzw4GsfTFwpWfh9zSuI] -->
+        <!-- firebase_secret_admin_remember : AIzaSyBeCUPgUin3BXadmin4GsfTFwpWfh9zSuG] -->
         <service
             android:name=".MyFirebaseMessagingService"
             android:exported="false">
